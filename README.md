@@ -1,2 +1,1 @@
-# Guida-Utility-Detection-
-Yolov8 detection of utilities in street view images from Mapillary Vistas and Mapillary API. Used training to triangulated utilities in Topodot. 
+This project was developed during my internship at Guida Surveying to support more efficient identification of street-level utilities from imagery. The pipeline applies YOLOv8 to Mapillary images and triangulates detections into survey-grade coordinates using TopoDOT.
